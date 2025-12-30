@@ -10,11 +10,18 @@ li.done span {
   }
 
 
-  li button {
-    margin-left: 8px;
-    background: none;
-    border: none;
+  .delete-btn {
     color: red;
-    font-size: 18px;
-    cursor: pointer;
+  }
+  
+  .edit-btn {
+    color: blue;
+    font-size: 14px;
+  }
+  
+  .list-box{
+    background-color: white;
+    margin: 80pt;
+    padding: 16pt;
+    text-align: center;
   }
